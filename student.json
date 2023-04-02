@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "firstName": "Ostap",
+  "lastName": "Ostapenko",
+  "Age": 17,
+  "isFullTime": true,
+  "specialization": "QA",
+  "course": 1,
+  "rating": 3,
+  "hasStipendium": false,
+  "skills": {
+    "hard": [
+      "manual",
+      "JS",
+      "Java"
+    ],
+    "soft": [
+      "attentive",
+      "communicable"
+    ]
+  },
+  "family": {
+    "mother": {
+      "age": 40,
+      "phone": 801111111111,
+      "Profession": "engineer"
+    },
+    "father": {
+      "age": 45,
+      "phone": 8022222222,
+      "Profession": "doctor"
+    }
+  },
+  "hobby": [
+    "riding",
+    "travelling"
+  ]
+}
